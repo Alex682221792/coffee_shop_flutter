@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Coffee Shop",
+    "imageUrl": "assets/images/logo_1.png",
+    "price": 0.0
+  },
+  {
+    "name": "Capuchino",
+    "imageUrl": "assets/images/1.png",
+    "price": 2.75
+  },
+  {
+    "name": "Americano",
+    "imageUrl": "assets/images/2.png",
+    "price": 1.25
+  },
+  {
+    "name": "Iced Tea",
+    "imageUrl": "assets/images/3.png",
+    "price": 1.99
+  },
+  {
+    "name": "Frapuchino",
+    "imageUrl": "assets/images/4.png",
+    "price": 2.25
+  },
+  {
+    "name": "Late",
+    "imageUrl": "assets/images/5.png",
+    "price": 0.99
+  },
+  {
+    "name": "Macchiato",
+    "imageUrl": "assets/images/7.png",
+    "price": 3.15
+  },
+  {
+    "name": "Espresso",
+    "imageUrl": "assets/images/8.png",
+    "price": 3.75
+  }
+]
